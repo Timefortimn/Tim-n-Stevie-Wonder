@@ -1,0 +1,21 @@
+Game Dev Dog
+
+what we need to do before we start programing/crafting
+	- we need a general idea
+		- turn based combat
+			- figure out mechanics
+			- grid system
+			- Movement/Attack
+			- AI for PVE
+			- general feel of 
+
+		- Player Turn
+			- (Beginning) Movement
+			- (Second) Combat
+			- (Final) ending of combat
+			- Switch to the next character or team
+
+	- Things to Program and work on
+		- making a grid system
+		- Player Control to move specific distances on the grid
+		- Player Attack on Stationary AI
